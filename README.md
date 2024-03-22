@@ -1,4 +1,4 @@
-**[简体中文](https://gitee.com/three-to-three/and-lua-a/blob/master/README.md)l[English](https://gitee.com/three-to-three/and-lua-a/blob/master/README.en.md)**
+**[简体中文](https://github.com/baiyuncode/andlua/blob/main/README.md)l[English](https://github.com/baiyuncode/andlua/blob/main/README.en.md)**
 # AndLua是什么？
 **```AndLua+
 是基于开源项目Lua开发的轻型脚本编程工具使用简洁优美的Lua语言简化了繁琐的Java语句
