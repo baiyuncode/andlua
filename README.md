@@ -27,5 +27,7 @@
 ```
 ## 下载
 [AndLua下载](https://objects.githubusercontent.com/github-production-release-asset-2e65be/776080745/e93a45e8-23ed-448f-a179-ba5f5f9c5763?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240322T164539Z&X-Amz-Expires=300&X-Amz-Signature=5bbd179a101f8c6a4a280c56a20b05613a198948175a9f5e2f23a9fc5eeaee3c&X-Amz-SignedHeaders=host&actor_id=164539407&key_id=0&repo_id=776080745&response-content-disposition=attachment%3B%20filename%3DAndLua%2B_6.8-beta5.apk&response-content-type=application%2Fvnd.android.package-archive)
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=baiyuncode/andlua&type=Date)](https://star-history.com/#baiyuncode/andlua&Date)
 
