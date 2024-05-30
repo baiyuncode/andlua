@@ -26,7 +26,4 @@ Use any editor that supports lua file packaging.
 ## download
 [AndLua download](https://gitee.com/three-to-three/and-lua-a/releases/download/6.8/AndLua%20_6.8-beta5.apk)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=baiyuncode/andlua&type=Date)](https://star-history.com/#baiyuncode/andlua&Date)
 

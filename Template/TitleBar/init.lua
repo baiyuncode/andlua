@@ -1,0 +1,20 @@
+--名称
+appname="$AppName$"
+--包名
+packagename="$PackageName$"
+--版本
+appcode="1"
+--版本号
+appver="1.0"
+--SDK
+appsdk="21"
+--调试模式
+debugmode=true
+--应用权限
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE",
+}
+--跳过编译
+skip_compilation={
+}

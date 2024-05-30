@@ -1,4 +1,4 @@
-**[简体中文](https://github.com/baiyuncode/andlua/blob/main/README.md)l[English](https://github.com/baiyuncode/andlua/blob/main/README.en.md)**
+**[简体中文](https://gitee.com/three-to-three/and-lua-a/blob/master/README.md)l[English](https://gitee.com/three-to-three/and-lua-a/blob/master/README.en.md)**
 # AndLua是什么？
 **```AndLua+
 是基于开源项目Lua开发的轻型脚本编程工具使用简洁优美的Lua语言简化了繁琐的Java语句
@@ -16,9 +16,9 @@
 继续使用表示你已知晓并同意该协议``
 
 # 应用截图
-![Screenshot_2023-09-21-00-30-36-505_com.AndLua.LY.jpg](https://private-user-images.githubusercontent.com/164539407/316102830-6f7fe641-a7cd-4612-a6c2-00388879cf6e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExMjYzNTAsIm5iZiI6MTcxMTEyNjA1MCwicGF0aCI6Ii8xNjQ1Mzk0MDcvMzE2MTAyODMwLTZmN2ZlNjQxLWE3Y2QtNDYxMi1hNmMyLTAwMzg4ODc5Y2Y2ZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyMlQxNjQ3MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNjkyMWY3MmE0OGI4MWVmNWM3MzljYzNkODM2NTU3ZTg3MGVkNzFlMmNjY2I1ZjBjOWFiMjIxMzM2NmM2NzllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.X0GYZ-603nAJryS1iGf58jRfTyzjku3Eb8TksnVPk_I)
-![Screenshot_2023-09-21-00-30-38-809_com.AndLua.LY.jpg](https://private-user-images.githubusercontent.com/164539407/316102861-4629964d-572a-4476-a4db-d05edc78a057.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExMjYzNTAsIm5iZiI6MTcxMTEyNjA1MCwicGF0aCI6Ii8xNjQ1Mzk0MDcvMzE2MTAyODYxLTQ2Mjk5NjRkLTU3MmEtNDQ3Ni1hNGRiLWQwNWVkYzc4YTA1Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyMlQxNjQ3MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTJjZWQyMzU3Y2JkZDU4NDA0YmUwZjllNjExNTE4YjcxNDE5ZTk0N2ZkMGI4OTZhOTQ0M2I0MWI4MWQ4OWExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NtpTQuntGqr8ddQcwOrzvD_TzwCMoRpUz7WmZOXiTgM)
-![Screenshot_2023-09-21-00-30-46-829_com.AndLua.LY.jpg](https://private-user-images.githubusercontent.com/164539407/316102901-0da2b05a-4763-4899-aa77-a00e87051fa1.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExMjYzNTAsIm5iZiI6MTcxMTEyNjA1MCwicGF0aCI6Ii8xNjQ1Mzk0MDcvMzE2MTAyOTAxLTBkYTJiMDVhLTQ3NjMtNDg5OS1hYTc3LWEwMGU4NzA1MWZhMS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyMlQxNjQ3MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jM2VkMDc1MTlmY2MyNmQyM2UwYWI4YjAyYTFlYTk2YmJiNmU5ODY5ZDcxZmQ3NTYxYzZlZGVmMzZlZDBmODQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZGf1C8QTmavmKaJ-4pAkPUx8UceUjdozxpw-yhlY1KM)
+![Screenshot_2023-09-21-00-30-36-505_com.AndLua.LY.jpg](https://cloud-note.cn/material/b3b2d23a7059abe4efb291fdd734104d)
+![Screenshot_2023-09-21-00-30-38-809_com.AndLua.LY.jpg](https://cloud-note.cn/material/f9239ba84d39de0dfddd55d13b9da378)
+![Screenshot_2023-09-21-00-30-46-829_com.AndLua.LY.jpg](https://cloud-note.cn/material/2a018f946e390a8b5d51fad0a5543f62)
 **如果喜欢这个项目，请给这个项目一个star🌟**
 # 下载、编译
 ## 如何编译？
@@ -26,8 +26,6 @@
 使用任何一个支持lua文件打包的编辑器
 ```
 ## 下载
-[AndLua下载](https://objects.githubusercontent.com/github-production-release-asset-2e65be/776080745/e93a45e8-23ed-448f-a179-ba5f5f9c5763?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240322T164539Z&X-Amz-Expires=300&X-Amz-Signature=5bbd179a101f8c6a4a280c56a20b05613a198948175a9f5e2f23a9fc5eeaee3c&X-Amz-SignedHeaders=host&actor_id=164539407&key_id=0&repo_id=776080745&response-content-disposition=attachment%3B%20filename%3DAndLua%2B_6.8-beta5.apk&response-content-type=application%2Fvnd.android.package-archive)
-## Star History
+[AndLua下载](https://gitee.com/three-to-three/and-lua-a/releases/download/6.8/AndLua%20_6.8-beta5.apk)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=baiyuncode/andlua&type=Date)](https://star-history.com/#baiyuncode/andlua&Date)
 

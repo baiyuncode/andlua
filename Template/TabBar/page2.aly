@@ -1,0 +1,12 @@
+{
+  LinearLayout;
+  layout_height="match_parent";
+  gravity="center";
+  layout_width="match_parent";
+  orientation="vertical";
+  {
+    TextView;
+    textSize="16sp";
+    text="Hello AndLua+";
+  };
+};

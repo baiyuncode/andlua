@@ -1,0 +1,392 @@
+6.6 (2020-04-22)
+- Undo operation is supported after saving layout
+- Better Layout Assistant
+- Add code navigation
+- Add night mode
+- Support package Lua files to Dex
+- Support for compiling java files
+- Optimize file / folder selection
+- Optimize Chinese function library
+- Optimize GIF dependency Library
+- Optimization editor
+- Optimize packaging
+- Optimize the details
+- Repair failed to delete project
+- Repair cannot run project
+- Fix some bugs
+
+6.5 (2020-04-13)
+- Support query Java API
+- Support one click insertion / removal of comments
+- Support editing local layout table
+- Support to set global so dependency Library
+- Skip compiling the specified file when packaging
+- Add ellipseze attribute
+- Add GIF dependency Library
+- Optimize quick completion
+- Optimize quick copy layout properties
+- Optimized sideslip manual
+- Optimize file labels
+- Layout optimization assistant
+- Optimize package size
+- Remove V7 and Baidu statistical support database
+- Fix code editor
+- Fix Android 6.0 can't pack
+- Fix some bugs
+
+6.4 (2020-04-06)
+- Multi language support
+- Add cardelevation, radius property
+- Add drawerlayou, titlebar, titlebar template
+- Add default code style
+- Add one key completion code
+- Source space support reply comments
+- Repair backup project time card UI
+- Repair failed to register account
+- Repair import source code cannot be opened automatically
+- Layout optimization assistant
+- Optimize bill management
+- Optimize upload file
+- Optimize APK installation
+- Optimization editor
+- Optimize some UI
+- Supports quick copy of layout properties
+- Support setting up Lua global support library
+- Add lua5.3 document
+- Add plug-in management to settings
+- Message center click the avatar to view the homepage
+- Download the source code repeatedly in five minutes after paying for it
+- Project support quick sharing to source space / QQ
+- Symbol bar supports long press operation
+- Fix some bugs
+
+6.3 (2020-01-18)
+- Compressed zip support with password
+- Modify the zip4j related function name
+- Import prompt will pop up after source code download
+- Source code added classification
+- Original source support statement
+- Add plug- in API documentation
+- Add more plug- in APIs
+- Optimize paid download source
+- Update tutorial guide content
+- Add auxiliary tools
+- Remove all advertisements
+- Support for thin packaging
+- Support custom syntax highlighting
+- Support for custom andlua + theme colors
+- Optimize real- time error reporting
+- Add code save exception detection
+- Repair the display problem in the horizontal screen state of some interfaces
+- Optimize new files
+- Optimize syntax highlighting
+- Supports clearing cache
+- New open file list UI
+- Folder / file support rename
+- Fix plug- in bugs
+- Optimize new projects
+- Support to modify gender and birthday
+- Fix a large number of known bugs
+
+6.2 (2020-01-18)
+- Add more playability to plug- ins
+- Fix known bugs
+
+6.1 (2020-01-16)
+- Plug in support
+- repairing Bugs
+
+6.0-beta2 (2020-01-11)
+- Layout optimization assistant
+- Repair auxiliary function failure
+- Optimizer run log
+- Optimize the details
+- repairing Bugs
+
+6.0-beta1 (2020-01-09)
+- Add program running log
+
+6.0 (2020-01-05)
+- New UI 3.0
+- Perfect list drop- down loading
+- Repair engineering file loss in some cases
+- Optimize some interfaces
+- repairing Bugs
+
+5.7.1 (2019-12-25)
+- Repair failed to upload source code
+
+5.7 (2019-12-24)
+- Reduce advertising
+- Source code support settings paid Download
+- Add author ID to source comments
+- Repair API background cannot modify Icon
+- Repair project cannot be loaded
+- Massive optimization of software upload speed
+- Fix incorrect version number after packaging
+- Optimize the details
+- repairing Bugs
+
+5.6 (2019-12-04)
+- Add swipemenulistview control
+- Add 3 permissions
+- Targetsdkversion to 26
+- Support to close shortcut bar
+- Support one click close file label
+- Optimize message center
+- Real time error reporting regression
+- Support receiving source code comments
+- Shared source support reporting
+- Add project anti touch setting
+- Shared source support setting password
+- Optimize the details
+- Repair save permission exception
+- Repair package bug
+- Fix the error of installapk method
+- Repair white screen after QQ login
+- Repair can't share post
+- Fix some bugs
+
+5.5 (2019-11-30)
+- Symbol bar supports tab key
+- Remove the horizontal screen limit
+- Support moving cursor in symbol bar
+- Add zip4j
+- Add more intelligent import analysis
+- Add video control
+- Small red dot of optimization message notification
+- Optimize symbol bar
+- Repair some users can't back up the project
+- Fix remote document errors
+- Repair source code cannot be imported
+- Fix some page refresh bugs
+- Repair Layout Assistant cannot display picture
+- Repair post failed to slide up
+
+5.4 (2019-10-27)
+- Add QQ pop up view
+- Optimize message push
+- Support for custom signing keys
+- Share source code and add sharing function
+- Fixed multiple interfaces stuck
+- Optimize code editor background color
+- Repair some bugs
+
+5.3 (2019-10-11)
+- Optimize personal pages
+- Add automatic backup
+- Update software encryption mode
+- Repair project cannot be loaded
+- Fix Android 9.0 theme failure
+- Repair auxiliary function failure
+- Fix external import failure
+- Fix some runtime prompts' only support andlua + '
+- Fix known bugs
+
+5.2 (2019-06-08)
+- Chat room supports sending emoticons
+- Chat room support sharing source code
+- Chat support recommended users
+- Chat room support sharing posts
+- Add shortcut bar
+- Optimize the details
+- Fix some bugs
+
+5.1 (2019-05-01)
+- Add V7 support library
+- Add QQ login module
+- Optimize the details
+- Fix some bugs
+
+5.0 (2019-02-27)
+- New UI style 2.0
+- Add more humanized design
+- Remove some useless functions
+- Add more APIs
+- Fix some bugs
+
+4.9 (2018-12-13)
+- Add sharing function to the Forum
+- The source page supports clicking the avatar to jump to the personal details page
+- Write page add engineering operation
+- Add time text control
+- Add custom content when creating files
+- Add custom menu
+- Fix some bugs
+- Optimize multiple details
+- Lazy to write, find out
+
+4.8 (2018-12-11)
+- Optimize the details
+- Fix backup management display bug
+- Add speed mode
+- Add new edition page
+- Add new navigation bar
+- Add backup / import settings
+- Add icon changes with theme
+
+4.7.7 (2018-12-06)
+- Repair some machine errors
+- Repair some icons do not display
+
+4.7.6 (2018-12-06)
+- Repair some machine errors
+- Add widget menu
+
+4.7.5 (2018-12-06)
+- Optimize some functions
+- Fix some bugs
+- Repair cannot be packaged
+- Repair import external resources
+- Add one key repair project
+- Add small tool color picker
+- Add post tool
+- Add one key to replace
+- Add backup management
+- Add color reference
+- Add material warehouse
+
+4.7 (2018-12-05)
+- Optimize some functions
+- Fix some bugs
+- Layout optimization assistant
+- Fix permissions disorder
+- Add Undo function
+- Add copy file
+- Repair label residue
+
+4.6 (2018-12-05)
+- Add toast style
+- Add theme style
+- Add simplicity
+- Optimize software
+- repairing bug
+
+4.5.1 (2018-12-03)
+- Adapt to Android p
+- Setter supports multiple parameters
+- Add some methods to httppost
+- Floating point comparison using approximation
+- Add luabitmapdrawable, support JPG, PNG, GIF, BMP, etc
+- Support setting network picture cache time
+- Optimize forced type handling
+- Optimize error messages
+- Optimize horizontalistview
+- You can omit all parameters of the context only build method
+- Optimize pageview and add pageadapter
+- Add horizontallistview
+- Optimization task supports up to 1024 threads and 128 parallel
+- Add elastic list control
+- optimizing DEX
+- Optimizing Sid algorithm of API interface
+- Optimizing API key validation
+- Optimize API post data
+- Add horizontal list control
+- Add search box control
+- Add elastic list control
+- Add ripple layout control
+- Add Lua edit box control
+- Increase list flexibility
+- Add forced open file
+- Add symbol bar style Toggle
+- New file text to TXT
+
+4.4.1 (2018-11-30)
+- Add more API interfaces
+- Fix the bug that can't open the file
+- Grope for yourself
+  
+4.4 (2018-08-26)
+- Optimize API
+- Optimize the start- up speed after engineering packaging
+- Optimize upload source code
+- Optimize software speed
+- Optimize Chinese function
+- Optimize about software
+- Optimize file creation
+- Optimize loading engineering
+- Optimize forums and sharing
+- Optimization source page
+- Optimize post detail page
+- Fix engineering property bug
+- Fix rename file errors
+- Fix the problem of probability effectiveness in search manual
+- Improve software fluency
+- Add more interfaces
+- Add backup management
+- Add more Chinese functions
+- Add a page to save the current edit
+- Add save code cursor position
+- Rewrite code edit page
+- Detail optimization experience
+
+4.3 (2018-08-21)
+- Optimize shear bars
+- Optimize the details
+- Optimize code color
+- Optimization tutorial manual
+- Optimize color chooser
+- Add more functions to shortcut bar
+- Add autocomplete text box control
+- Increase real- time error reporting
+- Add API interface
+
+4.2 (2018-08-19)
+- Remove V7 support library
+- Optimize operation efficiency
+- Optimize remote updates
+- Optimize the details
+- Add more topics
+- Add running lamp text control
+- Fix a lot of bugs
+
+4.1 (2018-08-17)
+- Perfect support for V4, V7
+- Optimization topic name
+- Optimize code completion
+- Add Chinese function completion
+- Add code block line
+- Repair failed to import package
+- Optimize the details
+
+4.0 (2018-08-16)
+- Operation bar of optimized cutting board
+- Contents of optimization function manual
+- Repair function library cannot be used
+- Remove color extractor
+- Try to adapt Android 4.0
+
+3.5 (2018-08-14)
+- Optimize post comments
+- Optimization tutorial UI
+- Optimize logout
+- Optimize code editing page title
+- Add some color tools
+- Add some Chinese functions
+- Add custom attribute of code editor
+- Layout Assistant continues to improve properties
+
+3.0 (2018-08-12)
+- Fix problems with post Tags
+- Optimize external import source
+- Optimize small parts of functions and interfaces
+- Fix bugs
+
+2.0 (2018-08-09)
+- Re rectification code writing page
+- Add a part of theme to the project
+- Layout Assistant add browser control
+- Layout Assistant adds some properties
+- Add tag function to post
+- Add modification function to post
+- Add owner logo to post
+- Add reply comment function to post
+- Set to add custom symbol bar function
+- Add delete function to source details page
+- Source code details page add view author home page
+- Personal center top trim
+- Fix a lot of bugs
+- Optimize some networking functions
+- Fix the black bug at the top of the tutorial manual
+
+1.0 (2018-08-05)
